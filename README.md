@@ -17,4 +17,4 @@
    <p>Alarma.ino   -> Codigo en Arduino que contiene las instrucciones
     para la corecta realizacion de la practica</p>
 <h2>Contacto</h2>
-aurora_denysse@hotmail.com
+correo: aurora_denysse@hotmail.com
