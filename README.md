@@ -3,7 +3,7 @@
 <br>
 <h2>Descripcion</h2>
    Practica de arduino en donde se implementa el funcionamiento de una alama
-   utilizando un reed switch, un buzzer, y un led. 
+   utilizando un reed switch, un buzzer,un led y un iman. 
    Cuando el iman se encuentre cerca del reed switch la alarma estara desactivada,
    pero al quitarlo la alarma se activara logrando que parpade un led y que el buzzer suene.
    Ademas se implemento un ahorro de energia en el arudino "poniendolo a dormir", esto utilizando
