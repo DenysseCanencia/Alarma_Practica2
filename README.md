@@ -9,7 +9,7 @@
    Ademas se implemento un ahorro de energia en el arudino "poniendolo a dormir", esto utilizando
    una interrupcion.  
  
- <h3>Archivos incluidos</h3>
+<h2>Archivos incluidos</h2>
    <p> README.md    -> Este archivo</p>
    <p>Circuito.jpg -> Evidencia del armado y funcionamiento del circuito</p>
    <p>diagrama.jpg -> Imagen del diagrama de conexiones</p>
